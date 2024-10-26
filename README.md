@@ -64,7 +64,6 @@ The application will start running at `http://localhost:3000`
 src/
 ├── components/           # Reusable components
 │   ├── Navbar.tsx       # Navigation bar component
-│   └── ProtectedRoute.tsx # Route protection wrapper
 ├── context/
 │   └── AuthContext.tsx  # Authentication context provider
 ├── pages/
